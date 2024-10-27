@@ -16,7 +16,7 @@
   ],
   "url": "https://github.com/jaidenbm0127/Pneuma",
   "manifest": "https://raw.githubusercontent.com/jaidenbm0127/Pneuma/main/module.json",
-  "download": "https://github.com/jaidenbm0127/pneuma/archive/refs/heads/main.zip",
+  "download": "https://github.com/jaidenbm0127/Pneuma/archive/refs/heads/main.zip",
   "scripts": [
     "scripts/main-menu-application.js",
     "scripts/create-class-menu.js",
