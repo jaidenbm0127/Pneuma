@@ -1,0 +1,22 @@
+{
+  "id": "pneuma",
+  "title": "Pneuma",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "An intuitive and easy way to add custom classes and subclasses!",
+  "authors": [
+    {
+      "name": "feshhi",
+      "discord": "feshhi",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "scripts/main-menu-application.js",
+    "scripts/create-class-menu.js",
+    "scripts/main.js"
+  ]
+} 
